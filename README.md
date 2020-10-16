@@ -16,7 +16,7 @@ This is the first real Phasmophobia saveData editor.  This program descrambles t
 
 * Step 1: Navigate to where your saveData.txt file is.  You can do this by opening file explorer, and in the path bar, paste `%appdata%/../LocalLow/Kinetic Games\Phasmophobia`
 * Step 2: Make a copy of your saveData.txt file.
-* Step 3: Extract the zip you downloaded from Releases into a folder.
+* Step 3: Extract the zip you downloaded from Releases into a folder. (https://github.com/chromamods/phasmo-save-editor/releases)
 * Step 4: Place the saveData.txt file in the SAME FOLDER as the PhasmoSaveEditor.exe file.
 * Step 5: Launch PhasmoSaveEditor.exe and do what you want to the save.  Follow on screen prompts for editing stuff. 
 * Step 6: When you're done, make sure to select the 'Exit and save' option.  Your now modded saveData.txt file will be in the generated "Modified" folder. The "Backups" folder holds the last edited file before you made changes and saved, so in your case (assuming you do not run the program multiple times), it'll be your unmodified save.
