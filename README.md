@@ -30,6 +30,5 @@ This is the first real Phasmophobia saveData editor.  This program descrambles t
 * There is next to no error checking in user inputs, meaning if you try to input something that you shouldn't (negative numbers, characters where it's asking for an int, etc), you likely will get undesired side effects.  You can avoid this by just putting in the right stuff the first try and not try and break the program. (I'll add error checking in later, but not super worried about it).
 
 ## Screenshots
-![Screenshot 1](https://i.imgur.com/M2JBgy7.png)
-![Screenshot 2](https://i.imgur.com/kc45vAB.png)
-![Screenshot 3](https://i.imgur.com/oyPfZUp.png)
+![Screenshot 1](https://i.imgur.com/O2qsUfV.png)
+![Screenshot 2](https://i.imgur.com/4Gtgq5T.png)
