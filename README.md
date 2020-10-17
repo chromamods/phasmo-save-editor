@@ -23,7 +23,9 @@ This is the first real Phasmophobia saveData editor.  This program descrambles t
 * Step 7: Overwrite the old saveData.txt in your `Kinetic Games/Phasmophobia` directory with the modified saveData.txt
 * Step 8: Launch Phasmophobia and enjoy your now modded save.
  
-**Note:** Relaunching the program multiple times does NOT edit the modified file.  If you want to mod the modded save file, you HAVE to move the `saveData.txt` from `Modified` to the root directory (by PhasmoSaveEditor.exe).
+**Note 1:** Relaunching the program multiple times does NOT edit the modified file.  If you want to mod the modded save file, you HAVE to move the `saveData.txt` from `Modified` to the root directory (by PhasmoSaveEditor.exe).
+
+**Note 2:** Currently, i'm getting reports that sometimes the editor isn't properly saving data.  Keep an eye out for a new update for when I do fix it (Soon™)
 
 ### Known Bugs
 
