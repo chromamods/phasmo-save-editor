@@ -1,3 +1,7 @@
+## PLEASE READ
+
+This project is abandoned. A new version is in the works, and will be linked here upon completion. The latest version of Phasmophobia altered how the game handles save data, meaning all save editors will no longer work. 
+
 # The Phasmophobia Save Editor
 
 This is the first real Phasmophobia saveData editor.  This program descrambles the saveData and allows you to edit it in the application, then rescrambling it in a readable format for an *unmodded* version of Phasmophobia.
